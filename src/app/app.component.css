@@ -11,6 +11,7 @@ header {
 }
 h1{
   padding-left: 10px;
+  color:white;
 }
 .router-outlet {
   min-height: 83vh;
@@ -28,9 +29,10 @@ nav{
   margin-left:10px;
 
 }
-footer {
-  background-color: orange;
+.stopka {
   color: white;
-  padding: 0.5em 1em;
-  text-align: center;
+  align-items: center;
+}
+mat-chip-listbox{
+  margin-left: 20px;
 }

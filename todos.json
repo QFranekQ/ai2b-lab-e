@@ -8,18 +8,32 @@
       "archived": false
     },
     {
-      "title": "Pierwsze zadanie",
-      "deadline": "2022-01-28",
+      "id": 2,
+      "title": "Hello Again World",
+      "deadline": "2000-01-01",
       "completed": true,
-      "archived": true,
-      "id": 3
+      "archived": true
     },
     {
-      "title": "Nowy quest",
-      "deadline": "2023-11-26",
-      "completed": false,
+      "title": "asdfasdfasdf",
+      "deadline": "2023-11-08",
+      "completed": true,
+      "archived": true,
+      "id": 6
+    },
+    {
+      "title": "FajnyTask",
+      "deadline": "2023-11-22T23:00:00.000Z",
+      "completed": true,
+      "archived": true,
+      "id": 7
+    },
+    {
+      "title": "Dobrze zrobione taski",
+      "deadline": "2023-11-28T23:00:00.000Z",
+      "completed": true,
       "archived": false,
-      "id": 4
+      "id": 8
     }
   ]
 }

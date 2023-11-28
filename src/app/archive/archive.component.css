@@ -10,6 +10,17 @@
   grid-gap: 10px;
   margin-bottom: 20px;
 }
+mat-card{
+   margin-bottom: 15px;
+ }
+
+.form-group{
+  display: flex;
+  align-items: center;
+}
+mat-card-title, mat-card-subtitle{
+  padding: 10px;
+}
 
 .new-task .form-group {
   display: flex;
@@ -32,12 +43,12 @@
     flex-grow: 1;
   }
 }
-button{
-  background-color: orange;
-  color: white;
-  border-radius: 5px;
-  border: none;
-}
+/*button{*/
+/*  background-color: orange;*/
+/*  color: white;*/
+/*  border-radius: 5px;*/
+/*  border: none;*/
+/*}*/
 .tasks .task {
   background-color: white;
   border: 1px solid black;
